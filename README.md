@@ -6,12 +6,13 @@
 
 > How To Setup On Linux
 
-> include terms/tags that can be searched
+> Author
 
-## Author
+> License
 
-Name : Kalifiabillal
-Email : Kalifiabillal@gmail.com
+## What is Django ?
+
+Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
 
 ## How To Setup On Linux
 1. Clone This Project `git clone `
@@ -22,6 +23,11 @@ Email : Kalifiabillal@gmail.com
 6. Migrate Database `python3 manage.py migrate`
 7. Create Super User `python3 manage.py createsuperuser`
 8. Finally Run The Project `python3 manage.py runserver`
+
+## Author
+
+Name : Kalifiabillal
+Email : Kalifiabillal@gmail.com
 
 ## License
 
