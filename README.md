@@ -15,7 +15,7 @@
 Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
 
 ## How To Setup On Linux
-1. Clone This Project `git clone `
+1. Clone This Project `git clone https://github.com/KalifiaBillal/VEGEFOODS`
 2. Go to Project Directory `cd VEGEFOODS`
 3. Create a Virtual Environment `virtualenv env`
 4. Activate Virtual Environment `source env/bin/activate`
