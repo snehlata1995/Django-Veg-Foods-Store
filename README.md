@@ -2,6 +2,12 @@
 
 # Django E-commerce vegetables Website
 
+> What is django ?
+
+> How To Setup On Linux
+
+> include terms/tags that can be searched
+
 ## Author
 
 Name : Kalifiabillal
