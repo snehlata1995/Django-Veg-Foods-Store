@@ -29,6 +29,7 @@ Django is a high-level Python Web framework that encourages rapid development an
 ## Author
 
 Name : Kalifiabillal
+Twitter : @Kalifiabillal
 Email : Kalifiabillal@gmail.com
 
 ## License
